@@ -1,0 +1,38 @@
+DNS和HTTP协议实验的补充材料
+
+支持HTTP的网站
+一、国内的网站
+1.  **人民网**：http://www.people.com.cn/：中央重点新闻网站，权威时政信息",
+2.  **新华网**：http://www.xinhuanet.com/：新华社官方网站，重大新闻首发",
+3.  **中国政府网**：http://www.gov.cn/：国务院官方门户，政策法规发布",
+4.  **中国网**：http://www.china.org.cn/：国务院新闻办主管，多语种对外传播平台",
+5.  **哈工大**：http://www.hit.edu.cn/
+
+二、国外的网站
+
+亚洲：
+塔吉克斯坦：http://finance.tj，http://tajikair.tj，http://dushanbe.tj
+马来西亚：http://www.usm.edu.my， 
+尼泊尔：http://www.tu.edu.np， 
+缅甸海关：http://www.customs.gov.mm， 
+老挝海关：http://www.customs.gov.la，
+土耳其某政府网站：http://istanbul.gov.tr， 
+
+非洲：
+达累斯萨拉姆大学：http://www.udsm.ac.tz
+内罗毕大学：http://www.uonbi.ac.ke
+南非统计局：http://www.statssa.gov.za，http://www.dha.gov.za（南非内政部）
+加纳大学：http://www.ug.edu.gh/
+
+大洋洲及太平洋地区：
+新西兰（New Zealand）：http://nzivf.co.nz 
+
+南美洲：
+"智利海关": "http://www.aduana.cl/",
+智利某大学：http://www.colegiopaideia.cl
+"委内瑞拉中央大学": "http://www.ucv.ve/"
+http://www.ort.edu.uy，乌拉圭某大学
+http://www.colegiosanagustin.edu.ar，阿根廷某大学
+
+欧洲及北美地区：
+暂无。
